@@ -126,6 +126,7 @@
 .timeoption {
   width: 30vh;
   padding: 5px;
+  border: 1px solid #EDEDED;
 }
 .hr1 {
   margin-left: 18px;
