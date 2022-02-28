@@ -24,7 +24,7 @@
   box-sizing: border-box;
   padding: 10px;
   position: absolute;
-  right: 37px;
+  right: 152px;
   top: 30px;
   z-index: 2;
 }
@@ -89,7 +89,7 @@
   width: 516px;
   height: 90px;
   position: absolute;
-  right: 45px;
+  right: 162px;
   top: 44px;
   z-index: 1;
   opacity: 0.9;
@@ -100,7 +100,7 @@
   width: 476px;
   height: 90px;
   position: absolute;
-  right: 66px;
+  right: 182px;
   top: 59px;
   z-index: 1;
   opacity: 0.5;
