@@ -367,6 +367,7 @@ button:hover .set1 {
   .timeoption {
     width: 16vh;
     padding: 5px;
+    border: 1px solid #EDEDED;
   }
   .wakeup {
     position: relative;
